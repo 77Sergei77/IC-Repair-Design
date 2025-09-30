@@ -1269,7 +1269,7 @@ footer {
 
 /*                                           375px mobile                              */
 
-@media (max-width: 376px) {
+@media (max-width: 1300px) {
 
     header {
         width: 100vw;
